@@ -6,11 +6,11 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>https://github.com/tamimsalem/CryptoN</projectUrl>
+    <projectUrl>https://github.com/PedroCavaleiro/CryptoN</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Packaging in Release mode</releaseNotes>
-    <copyright>Copyright 2016</copyright>
+    <releaseNotes>Migrated to .NET 7</releaseNotes>
+    <copyright>Copyright 2023</copyright>
     <tags>Cryptography Crypto Rijndael AES</tags>
   </metadata>
 </package>

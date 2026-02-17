@@ -1,6 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
     <OutputType>Library</OutputType>
     <RootNamespace>CryptoN</RootNamespace>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
@@ -8,10 +7,12 @@
     <Description>A simple class that makes it easier to do few basic crypto tasks.</Description>
     <Company>Tamim (Salem) Al Manaseer</Company>
     <Product>CryptoN.Core</Product>
-    <Copyright>Copyright ©  2016</Copyright>
+    <Copyright>Copyright ©  2023</Copyright>
     <AssemblyVersion>0.1.0.1</AssemblyVersion>
     <FileVersion>0.1.0.1</FileVersion>
     <AssemblyName>CryptoN</AssemblyName>
+    <Version>2.0.0</Version>
+    <TargetFrameworks>net7.0;net8.0</TargetFrameworks>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
